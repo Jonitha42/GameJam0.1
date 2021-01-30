@@ -10,8 +10,11 @@ public class OrbitaProbando : MonoBehaviour
 
     public CharacterController controller;
 
+    public float velocidadMovimiento;
     float turnSmoothVelocity;
     private Vector3 playerVelocity;
+
+     bool rotando=true;
   
     void Update()
     {
@@ -23,14 +26,18 @@ public class OrbitaProbando : MonoBehaviour
         }
 
          if (Input.GetKey(KeyCode.Space))
-        {
-            Vector3 direccion = objeto.transform.forward;
-            controller.Move(direccion * velocidad * Time.deltaTime);
+        {   
+            rotando=false;
         }
+
+        else {rotando=true;}
     }
     void OrbitAround() 
     {
+        if (rotando)
+        {
         transform.RotateAround(objeto.transform.position , Vector3.up ,velocidad * Time.deltaTime );
+        }
     }
 }
 
