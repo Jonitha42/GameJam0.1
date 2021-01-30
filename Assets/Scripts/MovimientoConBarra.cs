@@ -28,16 +28,9 @@ public float rotationOffset;
     if((transform.position - mTarget.position).magnitude>EPSILON)
     transform.Translate(mLookDirection * Time.deltaTime * mSpeed);
     
-
- // Vector3 direccion = (mTarget.position - transform.position).normalized;
-  // Quaternion rotation = Quaternion.LookRotation(new Vector3(direccion.x,0,direccion.z)); 
-   // transform.rotation = Quaternion.Slerp(transform.rotation,rotation,  Time.deltaTime * 5f);
-       
-
-
         }
 
-           }
+     }
 }
 
 
