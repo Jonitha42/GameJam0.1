@@ -251,7 +251,7 @@ MonoBehaviour:
       - ElementName: Bueno_burbujas
         ObjectType: 3
       Path: Default Work Unit\Bueno_burbujas
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Bueno_burbujas_Stop
@@ -275,7 +275,7 @@ MonoBehaviour:
       - ElementName: Bueno_cerveza
         ObjectType: 3
       Path: Default Work Unit\Bueno_cerveza
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Bueno_cerveza_Stop
@@ -299,7 +299,7 @@ MonoBehaviour:
       - ElementName: Bueno_fuego
         ObjectType: 3
       Path: Default Work Unit\Bueno_fuego
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Bueno_fuego_Stop
@@ -323,7 +323,7 @@ MonoBehaviour:
       - ElementName: Bueno_gato
         ObjectType: 3
       Path: Default Work Unit\Bueno_gato
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Bueno_gato_Stop
@@ -347,7 +347,7 @@ MonoBehaviour:
       - ElementName: Bueno_grillos
         ObjectType: 3
       Path: Default Work Unit\Bueno_grillos
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: 3749064
       minDuration: 3749064
     - name: Bueno_grillos_Stop
@@ -371,7 +371,7 @@ MonoBehaviour:
       - ElementName: Bueno_pajaros
         ObjectType: 3
       Path: Default Work Unit\Bueno_pajaros
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Bueno_pajaros_Stop
@@ -395,7 +395,7 @@ MonoBehaviour:
       - ElementName: Bueno_rio
         ObjectType: 3
       Path: Default Work Unit\Bueno_rio
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Bueno_rio_Stop
@@ -419,7 +419,7 @@ MonoBehaviour:
       - ElementName: Bueno_ventilador
         ObjectType: 3
       Path: Default Work Unit\Bueno_ventilador
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: 3584738
       minDuration: 3584738
     - name: Bueno_ventilador_Stop
@@ -443,7 +443,7 @@ MonoBehaviour:
       - ElementName: Bueno_zelda
         ObjectType: 3
       Path: Default Work Unit\Bueno_zelda
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Bueno_zelda_Stop
@@ -479,7 +479,7 @@ MonoBehaviour:
       - ElementName: Malo_bebe
         ObjectType: 3
       Path: Default Work Unit\Malo_bebe
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Malo_bebe_Stop
@@ -503,7 +503,7 @@ MonoBehaviour:
       - ElementName: Malo_charlie_brown
         ObjectType: 3
       Path: Default Work Unit\Malo_charlie_brown
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Malo_charlie_brown_Stop
@@ -527,7 +527,7 @@ MonoBehaviour:
       - ElementName: Malo_glitch
         ObjectType: 3
       Path: Default Work Unit\Malo_glitch
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: 2180213
       minDuration: 1541644
     - name: Malo_glitch_Stop
@@ -551,7 +551,7 @@ MonoBehaviour:
       - ElementName: Malo_grito_hombre
         ObjectType: 3
       Path: Default Work Unit\Malo_grito_hombre
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: 936449
       minDuration: 833318
     - name: Malo_grito_hombre_Stop
@@ -575,7 +575,7 @@ MonoBehaviour:
       - ElementName: Malo_grito_mujer
         ObjectType: 3
       Path: Default Work Unit\Malo_grito_mujer
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Malo_grito_mujer_Stop
@@ -599,7 +599,7 @@ MonoBehaviour:
       - ElementName: Malo_perro
         ObjectType: 3
       Path: Default Work Unit\Malo_perro
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: -1
       minDuration: -1
     - name: Malo_perro_Stop
@@ -623,7 +623,7 @@ MonoBehaviour:
       - ElementName: Malo_ruido
         ObjectType: 3
       Path: Default Work Unit\Malo_ruido
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: 2333333
       minDuration: 2333333
     - name: Malo_ruido_Stop
@@ -647,7 +647,7 @@ MonoBehaviour:
       - ElementName: Malo_unias
         ObjectType: 3
       Path: Default Work Unit\Malo_unias
-      maxAttenuation: 0
+      maxAttenuation: 100000000
       maxDuration: 2806155
       minDuration: 2500000
     - name: Malo_unias_Stop
