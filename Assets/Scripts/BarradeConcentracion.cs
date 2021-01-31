@@ -17,6 +17,8 @@ public class BarradeConcentracion : MonoBehaviour
     void Update()
     {
         sliderConcentracion.value=Concentracion;
-        Concentracion-= 10f* Time.deltaTime ;
+        
+
+        Concentracion -= 2f * Time.deltaTime;
     }
 }

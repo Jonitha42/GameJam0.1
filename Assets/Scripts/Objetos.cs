@@ -4,15 +4,18 @@ using UnityEngine;
 
 public class Objetos : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    
+    private void Ontrigger(Collider other)
 
-    // Update is called once per frame
-    void Update()
     {
-        
+
+        if (other.CompareTag("Player"))
+        {
+            Debug.Log(other);
+            BarradeConcentracion.Concentracion +=50f;
+          
+        }
+
+
     }
 }
