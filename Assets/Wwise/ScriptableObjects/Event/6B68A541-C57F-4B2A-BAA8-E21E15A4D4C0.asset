@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862d52c29fb1894b8a5e746cd0b5ef5, type: 3}
+  m_Name: 6B68A541-C57F-4B2A-BAA8-E21E15A4D4C0
+  m_EditorClassIdentifier: 
+  objectName: Bueno_grillos_Stop
+  id: 4251162196
+  guid: 6B68A541-C57F-4B2A-BAA8-E21E15A4D4C0
