@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862d52c29fb1894b8a5e746cd0b5ef5, type: 3}
+  m_Name: 695B8C34-5B5C-4E6B-9144-B372D8BDA7E2
+  m_EditorClassIdentifier: 
+  objectName: Malo_glitch
+  id: 2652575548
+  guid: 695B8C34-5B5C-4E6B-9144-B372D8BDA7E2

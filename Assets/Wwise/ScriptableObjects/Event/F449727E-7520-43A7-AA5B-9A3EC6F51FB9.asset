@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862d52c29fb1894b8a5e746cd0b5ef5, type: 3}
+  m_Name: F449727E-7520-43A7-AA5B-9A3EC6F51FB9
+  m_EditorClassIdentifier: 
+  objectName: Bueno_ventilador
+  id: 1128401027
+  guid: F449727E-7520-43A7-AA5B-9A3EC6F51FB9

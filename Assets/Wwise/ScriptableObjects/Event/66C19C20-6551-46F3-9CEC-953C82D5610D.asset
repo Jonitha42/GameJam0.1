@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862d52c29fb1894b8a5e746cd0b5ef5, type: 3}
+  m_Name: 66C19C20-6551-46F3-9CEC-953C82D5610D
+  m_EditorClassIdentifier: 
+  objectName: Malo_grito_hombre_Stop
+  id: 2726543919
+  guid: 66C19C20-6551-46F3-9CEC-953C82D5610D

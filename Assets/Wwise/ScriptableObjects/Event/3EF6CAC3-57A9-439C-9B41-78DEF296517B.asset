@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862d52c29fb1894b8a5e746cd0b5ef5, type: 3}
+  m_Name: 3EF6CAC3-57A9-439C-9B41-78DEF296517B
+  m_EditorClassIdentifier: 
+  objectName: Bueno_ventilador_Stop
+  id: 1229431022
+  guid: 3EF6CAC3-57A9-439C-9B41-78DEF296517B

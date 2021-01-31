@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862d52c29fb1894b8a5e746cd0b5ef5, type: 3}
+  m_Name: 4CFC1478-6354-4CC4-B4DD-30B0C90D90D5
+  m_EditorClassIdentifier: 
+  objectName: Bueno_pajaros_Stop
+  id: 503917648
+  guid: 4CFC1478-6354-4CC4-B4DD-30B0C90D90D5
