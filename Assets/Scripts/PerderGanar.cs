@@ -16,15 +16,6 @@ public class PerderGanar : MonoBehaviour
            SceneManager.LoadScene(0);
     
 
-
-     else if (Input.GetKey(KeyCode.Space))
-       {   
-            
-           SceneManager.LoadScene(1);
-
-    
-        }
-
 }
  
  
