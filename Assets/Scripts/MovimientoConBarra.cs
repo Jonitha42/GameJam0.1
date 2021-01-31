@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 public class MovimientoConBarra : MonoBehaviour
 {
     public float velocidadMovimiento;
@@ -31,6 +33,28 @@ public float rotationOffset;
         }
 
      }
+
+
+
+     
+       private void OnTriggerEnter(Collider other) {
+
+           if (other.CompareTag("Ganar")) {
+
+          Invoke("Restart",1f);
+
+           }
+            
+       }
+     
+     void Restart() 
+    
+     {
+       SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+     }
+
+
+
 }
 
 

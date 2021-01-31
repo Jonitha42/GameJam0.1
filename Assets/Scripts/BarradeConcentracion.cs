@@ -36,11 +36,11 @@ public class BarradeConcentracion : MonoBehaviour
 
 
         if (neg==true){
-        Concentracion -=10f * Time.deltaTime;
+        Concentracion -=1f * Time.deltaTime;
         }
 
         else{
-          Concentracion +=10f * Time.deltaTime;
+          Concentracion +=1f * Time.deltaTime;
 
         }
     }
