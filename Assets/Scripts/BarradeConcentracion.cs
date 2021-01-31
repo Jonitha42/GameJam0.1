@@ -7,7 +7,7 @@ public class BarradeConcentracion : MonoBehaviour
     public Slider sliderConcentracion;
 
     public static float Concentracion;
-    float maxConcentracion=50f;
+    float maxConcentracion=50;
 
     public static bool  neg=false;
   float valor;
