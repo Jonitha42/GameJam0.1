@@ -1,8 +1,8 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Objetos : MonoBehaviour
+public class ObjetosBlancos : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
 
@@ -11,7 +11,7 @@ public class Objetos : MonoBehaviour
         
         {
            
-            BarradeConcentracion.neg = true;
+            BarradeConcentracion.neg = false;
             Destroy(gameObject);
             
         }

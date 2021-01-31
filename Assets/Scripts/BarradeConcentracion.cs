@@ -7,18 +7,28 @@ public class BarradeConcentracion : MonoBehaviour
     public Slider sliderConcentracion;
 
     public static float Concentracion;
-    float maxConcentracion=100f;
+    float maxConcentracion=50f;
 
+    public static bool  neg=false;
+  float valor;
     void Start()
     {
       Concentracion = maxConcentracion;
     }
 
     void Update()
-    {
-        sliderConcentracion.value=Concentracion;
-        
+    {   
+      Debug.Log(neg);
+        sliderConcentracion.value= Concentracion;
 
-        Concentracion -= 2f * Time.deltaTime;
+        if (neg==true){
+        Concentracion -=3f * Time.deltaTime;
+        }
+
+        else{
+          
+          Concentracion +=3f * Time.deltaTime;
+
+        }
     }
 }
