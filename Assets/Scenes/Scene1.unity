@@ -121,6 +121,25 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &136590219 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2754923070452120405, guid: 58a7da12ec02d26468038092d835f69e,
+    type: 3}
+  m_PrefabInstance: {fileID: 2754923070588684510}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &136590222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136590219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08bd223bc2d28a343a4e2ed0b1453615, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  useStaticBillboard: 0
 --- !u!1 &148343543
 GameObject:
   m_ObjectHideFlags: 0
@@ -643,7 +662,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
