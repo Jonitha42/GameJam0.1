@@ -48,6 +48,6 @@ public class BarradeConcentracion : MonoBehaviour
       void Restart () 
       
       {
-          SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+          SceneManager.LoadScene(3);
       }
 }
