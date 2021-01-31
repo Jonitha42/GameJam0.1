@@ -22,12 +22,12 @@ public class BarradeConcentracion : MonoBehaviour
         sliderConcentracion.value= Concentracion;
 
         if (neg==true){
-        Concentracion -=3f * Time.deltaTime;
+        Concentracion -=1f * Time.deltaTime;
         }
 
         else{
           
-          Concentracion +=3f * Time.deltaTime;
+          Concentracion +=1f * Time.deltaTime;
 
         }
     }

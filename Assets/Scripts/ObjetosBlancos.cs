@@ -11,7 +11,7 @@ public class ObjetosBlancos : MonoBehaviour
         
         {
            
-            BarradeConcentracion.neg = false;
+            BarradeConcentracion.neg = true;
             Destroy(gameObject);
             
         }

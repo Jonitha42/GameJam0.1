@@ -11,7 +11,7 @@ public class Objetos : MonoBehaviour
         
         {
            
-            BarradeConcentracion.neg = true;
+            BarradeConcentracion.neg = false;
             Destroy(gameObject);
             
         }

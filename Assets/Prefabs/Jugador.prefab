@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2754923070044411411}
   - component: {fileID: 2754923070044411410}
   - component: {fileID: 2754923070044411413}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Jugador
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -159,7 +159,7 @@ GameObject:
   - component: {fileID: 2754923070046335071}
   - component: {fileID: 2754923070046335066}
   - component: {fileID: 2754923070046335070}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: indicador
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -267,7 +267,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2754923070452120402}
   - component: {fileID: 2754923070452120403}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: YingYang
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -350,7 +350,7 @@ GameObject:
   - component: {fileID: 2754923070896749321}
   - component: {fileID: 2754923070896749319}
   - component: {fileID: 2754923070896749320}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Personaje-Stand-By-GIF
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -462,7 +462,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2754923071336497475}
   - component: {fileID: 2754923071336497474}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
