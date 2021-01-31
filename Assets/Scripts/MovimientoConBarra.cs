@@ -50,7 +50,7 @@ public float rotationOffset;
      void Restart() 
     
      {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+       SceneManager.LoadScene(2);
      }
 
 

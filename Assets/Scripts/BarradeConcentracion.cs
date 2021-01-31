@@ -26,8 +26,7 @@ public class BarradeConcentracion : MonoBehaviour
         if (Concentracion <= 0f || Concentracion >= 100f) 
         {
 
-          // ACA VA LA CONDICION DE PERDER
-          Invoke("Restart",1f);
+            SceneManager.LoadScene(3);
 
         }
 
@@ -45,9 +44,5 @@ public class BarradeConcentracion : MonoBehaviour
         }
     }
 
-      void Restart () 
       
-      {
-          SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-      }
 }
