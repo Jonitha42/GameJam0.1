@@ -13,6 +13,8 @@ namespace AK
 {
     namespace EVENTS
     {
+        static const AkUniqueID BUENO_ASMR = 1133831940U;
+        static const AkUniqueID BUENO_ASMR_STOP = 1765662563U;
         static const AkUniqueID BUENO_BURBUJAS = 1408735243U;
         static const AkUniqueID BUENO_BURBUJAS_STOP = 1750661766U;
         static const AkUniqueID BUENO_CERVEZA = 97780761U;
@@ -46,6 +48,8 @@ namespace AK
         static const AkUniqueID MALO_PERRO_STOP = 3375004420U;
         static const AkUniqueID MALO_RUIDO = 3452831054U;
         static const AkUniqueID MALO_RUIDO_STOP = 2541196941U;
+        static const AkUniqueID MALO_TELEVISION = 2502550063U;
+        static const AkUniqueID MALO_TELEVISION_STOP = 3741683994U;
         static const AkUniqueID MALO_UNIAS = 1382782479U;
         static const AkUniqueID MALO_UNIAS_STOP = 2177680442U;
         static const AkUniqueID MUSIC_START = 3725903807U;
